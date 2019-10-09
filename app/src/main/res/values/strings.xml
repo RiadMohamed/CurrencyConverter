@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="egp">EGP:</string>
+    <string name="usd">USD:</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+</resources>
